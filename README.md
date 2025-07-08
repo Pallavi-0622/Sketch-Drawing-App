@@ -13,11 +13,12 @@ Using basic image processing techniques like grayscale conversion, Gaussian blur
 
 ## 📁 File Structure
 
-Pencil-sketch-/
-├── pencil_sketch.py       # Main Python script to convert image
-├── input.jpg              # Sample input image (you can replace it)
-├── output.jpg             # Sketch output (generated after running)
-├── README.md              # Project documentation
+Sketch-Drawing-App/
+├── pencil_sketch.py
+├── input.jpg    
+├── output.jpg
+└── README.md
+
 
 ## 🚀 How to Run
 
